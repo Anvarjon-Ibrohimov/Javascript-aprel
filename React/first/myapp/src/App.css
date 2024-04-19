@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.counter {
+    display: flex;
+    width: 600px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.9);
+    gap: 10px;
+    border-radius: 10px;
+}
+
+.btn {
+    width: 80px;
+    /* border: none; */
+}

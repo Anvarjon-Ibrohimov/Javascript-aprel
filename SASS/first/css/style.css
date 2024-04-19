@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul li a {
+  text-decoration: none;
+  color: green;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+}
+button:hover {
+  background-color: white;
+  color: green;
+  border: 2px solid green;
+}/*# sourceMappingURL=style.css.map */
